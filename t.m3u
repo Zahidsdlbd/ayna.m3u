@@ -1,34 +1,13 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:60213
-#EXT-X-TARGETDURATION:13
-#EXTINF:4.120,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4a3007fe19930dae3cb76be7df91de1ee
-#EXTINF:5.080,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4e25b43a860ac0381d00437719b7bd222
-#EXTINF:6.360,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b45dee2f1b863aca7b48bea731ce9ade43
-#EXTINF:4.880,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b433d796ed1027d90da7ad39a7fecc8a85
-#EXTINF:4.360,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b41e2ce151a214366ebc7da7d7b7288449
-#EXTINF:12.800,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4055613315376d1a37793e7778830526b
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4408e215f380007a4cdb3825c50708e01
-#EXTINF:7.960,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4e34d2b5d013fd68324330c7c45b86827
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b41aba25017239051fce1a98695e82c28d
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b43ef87d940b82266f375f3c0de998f246
-#EXTINF:8.280,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b44fe6c3ed213f616b90e18c66a776e2fe
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b40ff9fd4bb6ecade2a741db84357fe64c
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b42007104d8c00f236728e63564950a5c3
-#EXTINF:10.000,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4f3db0032bc42415dd68ad4ae797cb9f6
-#EXTINF:8.200,
-stream.php?cid=3&segment=c57c959e9da72d60fcaae320034205c54a307f6eef263ea08b6ff3eee1f80235ca6dd1183628769b8d40fc4b8a4044b4b4ec9cca66d617281fd639dce554f53e
+[
+{
+    "name": "TOFFEE Sports VIP",
+    "link": "",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/126.0.6478.127 Safari/537.36",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720886223:KeyName=prod_linear:Signature=RE7FcsOboL6iRrfDp5qN0Kt7Lq9rcf6-JgJxU-DhiaUhMBghnY6kwCX049TLfahNqQASN4tcwD_Ev5LaV1wDAA",
+    "drmScheme": "",
+    "drmLicense": ""
+}
+]
