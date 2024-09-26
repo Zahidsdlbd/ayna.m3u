@@ -1,24 +1,168 @@
-[
-{
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/126.0.6478.127 Safari/537.36",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720886223:KeyName=prod_linear:Signature=RE7FcsOboL6iRrfDp5qN0Kt7Lq9rcf6-JgJxU-DhiaUhMBghnY6kwCX049TLfahNqQASN4tcwD_Ev5LaV1wDAA",
-    "drmScheme": "",
-    "drmLicense": ""
-},
- {
-    "name": "TOFFEE Sports VIP23",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720872315:KeyName=prod_linear:Signature=AFMhY63H7I77briDkqKD3gCznj8JjwVYC5fijvI3J2z-lrJxkxlSBYW84OglrW2wnb7x_4mYlg--AZDqI6kZAA",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",Sony Max 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/marathis.png",Sony Marathi
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10",Tsports
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=268|Referer=https://mhdtvweb.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
+https://nowsports.in/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
+https://nowsports.in/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
+https://nowsports.in/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5
+https://nowsports.in/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFLXsrQxnOP0idW71VgZMpe98cRR8Z2l0jMd2X2MjFAJWGX7QLqrPzS4&s=10",New Zealand Vs SirLanka Test 
+https://nowsports.in/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg",Sports 18
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//&key=BDStreamHub
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
+https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
+https://mhdtv.co.in/daddy/stream.m3u8?id=370|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=450|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png",FOX SPORTS 501
+https://mhdtv.co.in/daddy/stream.m3u8?id=369|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",SKY SPORTS CRICKET
+https://mhdtv.co.in/daddy/stream.m3u8?id=65|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports 
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png",Super Cricket
+https://mhdtv.co.in/daddy/stream.m3u8?id=368|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpP8yxlf7fgMkPmSepeqMbrCLdGxtSWviBQ&s",Super La Liga 
+https://mhdtv.co.in/daddy/stream.m3u8?id=415|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
+https://nowmesports.com/crichd/stream.php?id=superfotball&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJZwll1yDc6IwfB4_XfT33ke4DAaaQCgf0Omc4cyfvCeVvWnPRdARbRA&s=10",Willow Cricket HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=346|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Extra
+https://mhdtv.co.in/daddy/stream.m3u8?id=598|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jdylVJnoDYuVJA7E4tv9GTX-WOtGfEiUUg&s",WWE
+https://mhdtv.co.in/daddy/stream.m3u8?id=376|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.discoveryplus.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TNT Sports 1
+https://mhdtv.co.in/daddy/stream.m3u8?id=31|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/TNT%20SPORTS%202.jpg",TNT Sports 2
+https://nowmesports.com/crichd/stream.php?id=bbtsp2&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfjVZSq-hhIydqH-JlvQG4VLwrSG3K64gTg&s",TNT Sports 3
+https://nowmesports.com/crichd/stream.php?id=bbtsp3&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg",Sports 18
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//&key=BDStreamHub
+
+
+
+
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/BUNDESLIGA.png",Bundesliga
+https://nowsports.in/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/BUNDESLIGA.png",Bundesliga
+https://mhdtv.co.in/daddy/stream.m3u8?id=558|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/PREL.png",English Premier League
+https://nowmesports.com/crichd/stream.php?id=superpremier&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/PREL.png",English Premier League
+https://mhdtv.co.in/daddy/stream.m3u8?id=139|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/SERIA.png",Serie A
+https://nowmesports.com/crichd/stream.php?id=superfotball&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/SERIA.png",Serie A
+https://mhdtv.co.in/daddy/stream.m3u8?id=31|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/SERIA.png",Serie A
+https://mhdtv.co.in/daddy/stream.m3u8?id=135|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8|Referer=https://dai.google.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
+https://mhdtv.co.in/daddy/stream.m3u8?id=614|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
+https://mhdtv.co.in/daddy/stream.m3u8?id=618|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
+https://mhdtv.co.in/daddy/stream.m3u8?id=619|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/LALIGATVS.webp",La Liga
+https://mhdtv.co.in/daddy/stream.m3u8?id=415|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/LALIGATVS.webp",La Liga
+https://mhdtv.co.in/daddy/stream.m3u8?id=538|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2024/09/uefanations.webp",UEFA Nations League
+https://nowsports.in/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2024/09/uefanations.webp",UEFA Nations League
+https://nowsports.in/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2024/09/uefanations.webp",UEFA Nations League
+https://nowsports.in/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2024/09/uefanations.webp",UEFA Nations League
+https://mhdtv.co.in/daddy/stream.m3u8?id=758|Referer=https://mhdtv.co.in//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/isl2.webp",Indian Super League
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//&key=BDStreamHub
+
+#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/isl2.webp",Indian Super League
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com//&key=BDStreamHub
