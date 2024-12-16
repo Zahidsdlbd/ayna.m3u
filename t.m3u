@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,T Sports
+https://cdn-tsports.iptvbd.xyz/master_480.m3u8
 #EXTINF:-1,Video Player
 https://247stream.one/ayna/stream.m3u8?id=1&e=.m3u8
 #EXTINF:-1,Video Player
