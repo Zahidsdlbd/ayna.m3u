@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,T Sports
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
-#EXTINF:-1,Bhool Bhulaiyaa 3 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie" Bhool Bhulaiyaa 3 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
-#EXTINF:-1,Stree 2 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie" Stree 2 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Stree%202%20%282024%29%201080p/Stree%202%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
-#EXTINF:-1,Article 370 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie" Article 370 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/Article%20370%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-logo="http://toffe.top/images/sports18.png" , Sports 18
 https://cflare.mooo.com/hls/sports18.m3u8
