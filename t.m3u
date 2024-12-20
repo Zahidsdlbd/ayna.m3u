@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,T Sports
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
-#EXTINF:-1 group-title="BDIX Movie" Bhool Bhulaiyaa 3 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie", Bhool Bhulaiyaa 3 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
-#EXTINF:-1 group-title="BDIX Movie" Stree 2 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie", Stree 2 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Stree%202%20%282024%29%201080p/Stree%202%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
-#EXTINF:-1 group-title="BDIX Movie" Article 370 (2024) 1080p
+#EXTINF:-1 group-title="BDIX Movie", Article 370 (2024) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/Article%20370%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-logo="http://toffe.top/images/sports18.png" , Sports 18
 https://cflare.mooo.com/hls/sports18.m3u8
@@ -83,7 +83,6 @@ https://cflare.mooo.com/hls/smovies.m3u8
 https://cflare.mooo.com/hls/spix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" , Colors Infinity
 https://cflare.mooo.com/hls/colinf.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png" tvg-id="959" ,Tata Play Romance
 https://port.yuvraj.fun/ch/959.m3u8|user-agent=yuvi bhai
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" tvg-id="8" ,STAR Plus HD
