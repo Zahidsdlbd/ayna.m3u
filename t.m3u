@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="",AZAAD 2025
+https://content.discoveryftp.net/secure/yVtAwaq8RjLBfoppQjpfXg/1737214193/Movies/Hindi/2025/Azaad/Azaad.2025.1080p.PRE-HD.Hindi.2.0.HC-ESub.x264.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Azaad 2 2025
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p%20HDTS/Azaad%20%282025%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Emergency (2025) 1080p Pre-HDRip
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Emergency%20%282025%29%201080p%20Pre-HDRip/Emergency%20%282025%29%20Hindi%201080p%20Pre-HDRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Match Fixing (2025) 720p HDTS
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/Match%20Fixing%20%282025%29%20Hindi%20720p%20HDTS%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Game Changer (2025) 1080p Pre-HDRip (Hindi Dubbed)
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Game%20Changer%20%282025%29%201080p%20Pre-HDRip%20%28Hindi%20Dubbed%29/Game%20Changer%20%282025%29%20Hindi%20Dubbed%201080p%20PRE-HDRip%20x264%20AAC%20-%20mkvCinemas.mkv
 #EXTINF:-1,T Sports
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/t-sports.webp",T Sports 
