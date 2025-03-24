@@ -41,7 +41,23 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_bbbt2tKIeEIXGgkv-jJZwo8u2MsBlpFAg&s" group-title="Sports",59.SKY SPORTS FOOTBALL
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
+#EXTINF:-1 tvg-id=ts1070 group-logo="" tvg-logo="https://i.ibb.co/3Sz5Zw3/Screenshot-2024-10-09-193946.png" group-title="IPL",Astro Cricket.
+https://allinonereborn.com/tata-tv40.php?id=206091
 
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="IPL",STAR SPORTS 1 HD
+https://allinonereborn.com/tata-tv40.php?id=12148
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="IPL",STAR SPORTS 1 Hindi HD
+https://allinonereborn.com/tata-tv40.php?id=12149
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="IPL",STAR SPORTS 1 Tamil HD
+https://allinonereborn.com/tata-tv40.php?id=12154
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="IPL",Willow Crickbuzz
+https://allinonereborn.com/tata-tv40.php?id=12169
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WxSzQfV/Screenshot-2025-01-06-181955.png" tvg-id="12149" tvg-logo="" group-title="IPL",Sky Sports Cricket
+https://allinonereborn.com/tata-tv40.php?id=8894
 
 
 
