@@ -138,8 +138,8 @@ http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Satv" tvg-id="local_out/satv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76934174321.png", Satv
 http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 
-#EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T sports
-http://103.163.247.39/local_out/tsports/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T sports valuka
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
 EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/80dd1b2e3f8a679d1ffb4e0de28da68c" tvg-id="10" , T Sports HD
 https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/1c22bca22dc77c03b5ed6349bc773079" tvg-id="34" , A sports
@@ -150,6 +150,10 @@ https://aynaxpranto.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m
 https://aynaxpranto.vercel.app/api/stream/93c7e57d-e666-488a-aec9-a339a7e5eb74.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/73f8edb172a31a81cf7c35ed158034d9" tvg-id="37" , Star Sports 1 HD
 https://aynaxpranto.vercel.app/api/stream/f064e069-8861-43d5-ac79-828b029a50a1.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/73f8edb172a31a81cf7c35ed158034d9" tvg-id="37" , Star Sports 1 HD valuka
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=STAR-SPORTS-1
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/73f8edb172a31a81cf7c35ed158034d9" tvg-id="37" , Star Sports 2 HD valuka
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=STAR-SPORTS-2
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/e436da5b5be7f4f292b019b94ae4ad8b" tvg-id="38" , Star Sports Select 2 HD
 https://aynaxpranto.vercel.app/api/stream/6cce2b86-f371-4184-b288-988de0607926.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/d3365eb204da4231533eec6c43c95e62" tvg-id="39" , Sports 18
