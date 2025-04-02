@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""  group-title="",Officer on Duty
-https://content.discoveryftp.net/secure/2lllxot91egUBL5gYZqX_A/1742665060/Movies/Others/2025/Officer%20on%20Duty/Officer.on.Duty.2025.1080p.NF.WEB.DL.Hindi.DDP5.1.Malayalam.DDP5.1.x264.Dual.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Phir Bhi Dil Hai Hindustani (2000) 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Phir%20Bhi%20Dil%20Hai%20Hindustani%20%282000%29%201080p/Phir%20Bhi%20Dil%20Hai%20Hindustani%20%282000%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Phir Bhi Dil Hai Hindustani (2000) 1080
-https://content.discoveryftp.net/secure/w7j1-ArtYLde1l5vmCCQFA/1738937984/Movies/Hindi/2000/Phir%20Bhi%20Dil%20Hai%20Hindustani/Phir%20Bhi%20Dil%20Hai%20Hindustani.2000.1080p.WEB-DL.H264.AAC-Telly.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",AZAAD 2025
-https://content.discoveryftp.net/secure/yVtAwaq8RjLBfoppQjpfXg/1737214193/Movies/Hindi/2025/Azaad/Azaad.2025.1080p.PRE-HD.Hindi.2.0.HC-ESub.x264.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Azaad 2 2025
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p%20HDTS/Azaad%20%282025%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Emergency (2025) 1080p Pre-HDRip
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Emergency%20%282025%29%201080p%20Pre-HDRip/Emergency%20%282025%29%20Hindi%201080p%20Pre-HDRip%20x264%20AAC%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Match Fixing (2025) 720p HDTS
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/Match%20Fixing%20%282025%29%20Hindi%20720p%20HDTS%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Game Changer (2025) 1080p Pre-HDRip (Hindi Dubbed)
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Game%20Changer%20%282025%29%201080p%20%5BDual%20Audio%5D/Game%20Changer%20%282025%29%201080p%20DS4K%20WEBRip%20x265%20HEVC%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-HDHub.mkv
-#EXTINF:-1 tvg-logo=""  group-title="",Game Changer (2025) 1080p Pre-HDRip (Hindi Dubbed)2
-https://content.discoveryftp.net/secure/I_6uf9-2LVwdAuqNu1MHNw/1738337079/Movies/Tamil/2025/Game%20Changer/Game.Changer.2025.1080p.DS4K.WEB.DL.Hindi.5.1.Telugu.5.1.x264.Dual.mkv
-#EXTINF:-1 group-title="BDIX Movie", Bhool Bhulaiyaa 3 (2024) 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
-#EXTINF:-1 group-title="BDIX Movie", Stree 2 (2024) 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Stree%202%20%282024%29%201080p/Stree%202%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
-#EXTINF:-1 group-title="BDIX Movie", Article 370 (2024) 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/Article%20370%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbXMkxBF/gtv-2.png" group-title="Sports",GTV HD
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
@@ -369,5 +345,31 @@ https://streamingxfireflix.vercel.app/api/stream?id=245969.m3u8
 
 #EXTINF:-1, Sony Aath
 https://streamingxfireflix.vercel.app/api/stream?id=245989.m3u8
+
+
+#EXTINF:-1 tvg-logo=""  group-title="",Officer on Duty
+https://content.discoveryftp.net/secure/2lllxot91egUBL5gYZqX_A/1742665060/Movies/Others/2025/Officer%20on%20Duty/Officer.on.Duty.2025.1080p.NF.WEB.DL.Hindi.DDP5.1.Malayalam.DDP5.1.x264.Dual.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Phir Bhi Dil Hai Hindustani (2000) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Phir%20Bhi%20Dil%20Hai%20Hindustani%20%282000%29%201080p/Phir%20Bhi%20Dil%20Hai%20Hindustani%20%282000%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Phir Bhi Dil Hai Hindustani (2000) 1080
+https://content.discoveryftp.net/secure/w7j1-ArtYLde1l5vmCCQFA/1738937984/Movies/Hindi/2000/Phir%20Bhi%20Dil%20Hai%20Hindustani/Phir%20Bhi%20Dil%20Hai%20Hindustani.2000.1080p.WEB-DL.H264.AAC-Telly.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",AZAAD 2025
+https://content.discoveryftp.net/secure/yVtAwaq8RjLBfoppQjpfXg/1737214193/Movies/Hindi/2025/Azaad/Azaad.2025.1080p.PRE-HD.Hindi.2.0.HC-ESub.x264.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Azaad 2 2025
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p%20HDTS/Azaad%20%282025%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Emergency (2025) 1080p Pre-HDRip
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Emergency%20%282025%29%201080p%20Pre-HDRip/Emergency%20%282025%29%20Hindi%201080p%20Pre-HDRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Match Fixing (2025) 720p HDTS
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/Match%20Fixing%20%282025%29%20Hindi%20720p%20HDTS%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Game Changer (2025) 1080p Pre-HDRip (Hindi Dubbed)
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Game%20Changer%20%282025%29%201080p%20%5BDual%20Audio%5D/Game%20Changer%20%282025%29%201080p%20DS4K%20WEBRip%20x265%20HEVC%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-HDHub.mkv
+#EXTINF:-1 tvg-logo=""  group-title="",Game Changer (2025) 1080p Pre-HDRip (Hindi Dubbed)2
+https://content.discoveryftp.net/secure/I_6uf9-2LVwdAuqNu1MHNw/1738337079/Movies/Tamil/2025/Game%20Changer/Game.Changer.2025.1080p.DS4K.WEB.DL.Hindi.5.1.Telugu.5.1.x264.Dual.mkv
+#EXTINF:-1 group-title="BDIX Movie", Bhool Bhulaiyaa 3 (2024) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bhool%20Bhulaiyaa%203%20%282024%29%201080p/Bhool%20Bhulaiyaa%203%20%282024%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20HDHub4u.mkv
+#EXTINF:-1 group-title="BDIX Movie", Stree 2 (2024) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Stree%202%20%282024%29%201080p/Stree%202%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
+#EXTINF:-1 group-title="BDIX Movie", Article 370 (2024) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/Article%20370%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 
