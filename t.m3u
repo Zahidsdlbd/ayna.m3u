@@ -4,6 +4,18 @@
 #EXTINF:-1, BAN VS UAE
 https://abgqjfuaaaaaaaamd4imxbg4bfjkh.ad01190728d146549fb8adaa4443f5c2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd
 
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed9fa22d0e0b71a208d813562f3f1035:49cc5dd088a60a3380c7d44e71b00e4c
+#EXTINF:-1, IPL
+https://abgqjfuaaaaaaaamogrfb5btazrtt.3025a5b52a9849469d4c40818986708f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tt3w1sult9/out/v1/615efe152372485eaf82224836d4d3f0/cenc.mpd
+
+#EXTINF:-1 ,Fancode
+https://play.shihab.fun/in/stream.php?url=https://dai.fancode.com/primary/125493_english_hls_83824ta-di_h264/index.m3u8|Referer=https://play.shihab.fun/
+#EXTINF:-1 ,Tsports New
+http://c1.frsports.info/UAEt20/tracks-v1a1/mono.m3u8?token=8cb78fab83dc033c16aa7f693bb87814fadeb62a0d10a67b2ca11b70809738d2-1747495796-1747495719
+
+
 
 #EXTINF:-1,PSL
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
