@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b2e4fab17c041f20867625491b13938:9ff81a4b4700b4cb7077e2049d97fbdf
+#EXTINF:-1 tvg-id="" tvg-name=BAN VS UAE group-title="Live Sports",BAN VS UAE
+https://abgqjfuaaaaaaaamd4imxbg4bfjkh.ad01190728d146549fb8adaa4443f5c2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd
+
+
 #EXTINF:-1,PSL
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1,BTV HD (Ban vs Zim)
