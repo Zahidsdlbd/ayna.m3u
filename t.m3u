@@ -14,6 +14,8 @@ https://abgqjfuaaaaaaaamogrfb5btazrtt.3025a5b52a9849469d4c40818986708f.emt.cf.ww
 https://rex-streaming.vercel.app/api/BDIX/167590.m3u8|user-agent=@xfireflix
 #EXTINF:-1 ,Tsports Ayna
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Tsports test
+https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.109.86.40&e=1794985409&h=1bd779f6c79b0f4909848dd023aff83d
 #EXTINF:-1 ,Tsports web
 http://stvlive.net:8080/sonyten1/index.m3u8
 
