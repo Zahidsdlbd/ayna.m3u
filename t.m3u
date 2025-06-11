@@ -47,12 +47,26 @@ https://rex-streaming.vercel.app/api/BDIX/167571.m3u8|user-agent=@xfireflix
 https://rex-streaming.vercel.app/api/BDIX/167572.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sony Ten 5 HD
 https://rex-streaming.vercel.app/api/BDIX/167595.m3u8|user-agent=@xfireflix
+#EXTINF:-1,Willow  HD
+https://rex-streaming.vercel.app/api/BDIX/167583.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Willow 2 HD
 https://rex-streaming.vercel.app/api/BDIX/167582.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sky Sports Cricket
 https://rex-streaming.vercel.app/api/BDIX/167594.m3u8|user-agent=@xfireflix
+#EXTINF:-1,FOX Cricket
+https://rex-streaming.vercel.app/api/BDIX/167593.m3u8|user-agent=@xfireflix
+#EXTINF:-1,A Sports
+https://rex-streaming.vercel.app/api/x/219689.m3u8|user-agent=@xfireflix
+#EXTINF:-1,PTV Sports
+https://aynapubluc.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
+#EXTINF:-1,Ten Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
+#EXTINF:-1,Astro Sports
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=58136
 
+#EXTINF:-1,Geo Sports
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1,MSports
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1,Sports Max
