@@ -26,29 +26,31 @@ http://stvlive.net:8080/sonyten5/index.m3u8
 
 
 #EXTINF:-1,Star Sports 1
-https://rex-streaming.vercel.app/api/BDIX/109987.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflix
+#EXTINF:-1,Star Sports 1 hinfi
+https://rex-streaming.vercel.app/api/BDIX/167573.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Star Sports 1 HD
-https://rex-streaming.vercel.app/api/BDIX/167575.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167575.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Star Sports 2 HD
-https://rex-streaming.vercel.app/api/BDIX/167576.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167576.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Star Sports 3
-https://rex-streaming.vercel.app/api/BDIX/167577.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167577.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Star Sports Select 1
-https://rex-streaming.vercel.app/api/BDIX/167578.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167578.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Star Sports Select 2
-https://rex-streaming.vercel.app/api/BDIX/167579.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167579.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sony Ten 1 HD
-https://rex-streaming.vercel.app/api/BDIX/167570.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167570.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sony Ten 2 HD
-https://rex-streaming.vercel.app/api/BDIX/167571.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167571.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sony Ten 3 HD
-https://rex-streaming.vercel.app/api/BDIX/167572.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167572.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sony Ten 5 HD
-https://rex-streaming.vercel.app/api/BDIX/167595.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167595.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Willow 2 HD
-https://rex-streaming.vercel.app/api/BDIX/167582.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167582.m3u8|user-agent=@xfireflix
 #EXTINF:-1,Sky Sports Cricket
-https://rex-streaming.vercel.app/api/BDIX/167594.m3u8?|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/167594.m3u8|user-agent=@xfireflix
 
 
 #EXTINF:-1,MSports
