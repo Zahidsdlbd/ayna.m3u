@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png" group-title="SONY LIV",SONY HD  
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8 
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/B6yNrgJ5/Sony-SAB-Logo-2011.png" group-title="SONY LIV",SONY SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8 
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="SONY LIV",SONY PAL
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8 
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8 
+https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=123&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8 
+https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=96&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg" group-title="SONY LIV",SONY WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8 
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="SONY LIV",SONY MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8 
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SONY LIV",SONY AATH
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8 
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SONY LIV",SONY YAY
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8 
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://seeklogo.com/images/S/sony-pix-logo-34A5FEEFA4-seeklogo.com.png" group-title="SONY LIV",SONY PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8 
+
+#EXTINF: -1 tvg-id="12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="SONY LIV",SONY BBC EARTH
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="SONY LIV",SONY TEN 1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SONY LIV",SONY TEN 2
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SONY LIV",SONY TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Sony_Six.png" group-title="SONY LIV",SONY TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Sony_Six.png" group-title="SONY LIV",SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1, 21 Grams
 https://content1.discoveryftp.net/secure/17IJ8NJ0YwdJZ0ZMpS7y7A/1754636160/Movies/Others/2022/21%20Grams/Twenty.One.Grams.2022.Malayalam.1080P.DSNP.WEBRiP.DD5.1.x265.ESUB.[shadow].mkv
 #EXTINF:-1, Kuberaa
