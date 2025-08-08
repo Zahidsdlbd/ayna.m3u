@@ -1,4 +1,77 @@
 #EXTM3U
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ABC USA
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=51
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID A&E USA
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=302
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID AMC USA
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=303
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Animal Planet
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=304
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ACC Network USA
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=666
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 1
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=123
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 2
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=124
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 3
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=125
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 4
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=126
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Premium
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=134
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Premium
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=135
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Premium
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=139
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Serbia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=429
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Serbia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=430
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Serbia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=431
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 4 Serbia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=581
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Croatia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=432
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Croatia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=433
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Croatia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=434
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 4 Croatia
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=580
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass One
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=781
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass Two
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=782
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass Three
+https://xfireflix.fun/wp-content/plugintv/stream.php?cid=783
+
+
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png" group-title="SONY LIV",SONY HD  
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8 
 
