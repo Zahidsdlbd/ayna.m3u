@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:1460, 21 Grams
+#EXTINF:1, 21 Grams
 #EXTVLCOPT:network-caching=1000
 http://content.discoveryftp.net/secure/aQWICoKX3rPWEH_wyHcSHQ/1754636163/Movies/Others/2022/21%20Grams/Twenty.One.Grams.2022.Malayalam.1080P.DSNP.WEBRiP.DD5.1.x265.ESUB.%5Bshadow%5D.mkv
-#EXTINF:1460, Kuberaa
+#EXTINF:1, Kuberaa
 #EXTVLCOPT:network-caching=1000
 http://content.discoveryftp.net/secure/HGb-MWShP7Avk24cq9NG1Q/1750875629/Movies/Tamil/2025/Kuberaa/Kuberaa.2025.1080p.V2.HDTC.Hindi.ORG.2.0.Telugu.LiNE.HC.ESub.x264.Dual.mkv
-#EXTINF:1460, Sitaare Zameen Par
+#EXTINF:1, Sitaare Zameen Par
 #EXTVLCOPT:network-caching=1000
 http://content.discoveryftp.net/secure/TmPEmqlcXJ81w16rlxuWnw/1750875706/Movies/Hindi/2025/Sitaare%20Zameen%20Par/Sitare.Zameen.Par.2025.1080p.V2.HDTC.Hindi.Line.HC.ESub.x264.mkv
-#EXTINF:1460, Raid 2
+#EXTINF:1, Raid 2
 #EXTVLCOPT:network-caching=1000
 http://content.discoveryftp.net/secure/cnfpMmMwfUdEUQxaJsm7Eg/1750875735/Movies/Hindi/2025/Raid%202/Raid-2.2025.4K.SDR.Hindi.WEB-DL.DD5.1.x264-HDHub4u.Ms.mkv
 #EXTINF:-1,Tsports 1
